@@ -9,3 +9,5 @@ Figure 4: Data Files to reproduce Bray-Curtis Similarity and PCA plots.
 Figure 5: Data Files to reproduce Biofilm and Fitness Assessments of nlpD- knockouts. 
 
 Figure S5: Data Files to reproduce assessment of early parallelism in this study and the LTEE (data from Good et al 2017)
+
+FimA_DE: Data Files to assess differential expression between WT, FimA-, and FimA overexpression strains. Data is reanalyzed from Liu et al, 2022: https://pmc.ncbi.nlm.nih.gov/articles/PMC9633679/
