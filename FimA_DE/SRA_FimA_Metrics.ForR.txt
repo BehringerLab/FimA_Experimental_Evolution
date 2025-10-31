@@ -1,0 +1,4 @@
+Samples	meanFragmentLength
+FimA_del	261.448041
+WT	262.67976
+FimA_over	254.569836
